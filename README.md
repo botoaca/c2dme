@@ -17,6 +17,6 @@
 
 # Run
 The is a [Makefile](Makefile) included, but it's been written for and on Windows, so no testing has been done on other operating systems.
-* Edit the 12th line of the Makefile with desired sample
+* Edit the 12th line of the Makefile with the desired sample
 * Run `make`
 * Run `.\build\output.exe`
